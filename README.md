@@ -25,4 +25,5 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 07.07 (화) | [1844. 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | BFS | O | O | - | O | - |
 | 07.08 (수) | [388351. 유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | 구현 | O | O | - | O | - |
-| 07.09 (목) | [92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 구현 | O | X | - | O | O |
+| 07.09 (목) | [92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 구현 | O | O | - | O | O |
+| 07.10 (금) | [155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 구현 | O | X | - | O | X |
