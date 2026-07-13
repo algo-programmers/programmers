@@ -4,26 +4,27 @@
 
 ## 📋 스터디 개요
 
-| 항목 | 내용 |
-| :---: | :--- |
-| **시작일** | 2026.07.07 |
-| **규칙** | 평일 하루에 한 문제씩 프로그래머스 풀기 / 안 풀면 만원  |
+|    항목    | 내용                                                   |
+| :--------: | :----------------------------------------------------- |
+| **시작일** | 2026.07.07                                             |
+|  **규칙**  | 평일 하루에 한 문제씩 프로그래머스 풀기 / 안 풀면 만원 |
 
 ### 👥 참여자
 
-| 이름 | GitHub |
-| :---: | :---: |
+|  이름  |                            GitHub                            |
+| :----: | :----------------------------------------------------------: |
 | 김지윤 | [@zbqlxm5484-netizen](https://github.com/zbqlxm5484-netizen) |
-| 허정원 | [@hj2n](https://github.com/hj2n) |
-| 김주우 | [@kimzoo5676-del](https://github.com/kimzoo5676-del) |
-| 안서진 | [@xxj15](https://github.com/xxj15) |
-| 장준환 | [@prgmd](https://github.com/prgmd) |
+| 허정원 |               [@hj2n](https://github.com/hj2n)               |
+| 김주우 |     [@kimzoo5676-del](https://github.com/kimzoo5676-del)     |
+| 안서진 |              [@xxj15](https://github.com/xxj15)              |
+| 장준환 |              [@prgmd](https://github.com/prgmd)              |
 
 ## 문제 풀이 현황
 
-| 날짜 | 문제 | 알고리즘 | 김지윤 | 허정원 | 김주우 | 안서진 | 장준환 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 07.07 (화) | [1844. 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | BFS | O | O | - | O | - |
-| 07.08 (수) | [388351. 유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | 구현 | O | O | - | O | - |
-| 07.09 (목) | [92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 구현 | O | O | - | O | O |
-| 07.10 (금) | [155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 구현 | O | X | - | O | X |
+|    날짜    |                                            문제                                            | 알고리즘 | 김지윤 | 허정원 | 김주우 | 안서진 | 장준환 |
+| :--------: | :----------------------------------------------------------------------------------------: | :------: | :----: | :----: | :----: | :----: | :----: |
+| 07.07 (화) |  [1844. 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |   BFS    |   O    |   O    |   -    |   O    |   -    |
+| 07.08 (수) |   [388351. 유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)   |   구현   |   O    |   O    |   -    |   O    |   -    |
+| 07.09 (목) |  [92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  |   구현   |   O    |   O    |   -    |   O    |   O    |
+| 07.10 (금) |   [155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)    |   구현   |   O    |   X    |   -    |   O    |   X    |
+| 07.13 (월) | [154538. 숫자 변환하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154538) |   bfs    |   O    |   X    |   O    |   O    |   O    |
