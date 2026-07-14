@@ -28,3 +28,4 @@
 | 07.09 (목) |  [92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  |   구현   |   O    |   O    |   -    |   O    |   O    |
 | 07.10 (금) |   [155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)    |   구현   |   O    |   X    |   -    |   O    |   X    |
 | 07.13 (월) | [154538. 숫자 변환하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154538) |   bfs    |   O    |   X    |   O    |   O    |   O    |
+| 07.14 (화) | [142085. 디펜스게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |   bfs    |   O    |   -    |   -    |   O    |   -    |
